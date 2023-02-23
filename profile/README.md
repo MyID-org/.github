@@ -1,9 +1,12 @@
 # MyID - Your new secure identity.
 
-In today's fast-paced world, one grave mistake that most of us make is to share our phone numbers/email addresses with everyone without giving a second thought, including with people whom we don't know or organizations that we don't trust.
+## Problem statement
+- In today's modern, fast-paced society, one common mistake that most people make is to share their personal phone numbers and email addresses to anyone without giving a second thought. 
+- People carelessly share their personal information like phone numbers and email addresses to people whom they don't know or organizations that they don't trust. This is a huge security risk, and this personal information can be exploited and used for malicious purposes, leading to unintended consequences. 
+- A shocking fact that most people aren’t aware of is that with just a phone number, one can easily extract a lot of other personal information like addresses, occupations, etc. within a matter of a few hours. 
+- Sharing personal email addresses to untrusted entities can lead to phishing attempts and a lot of spam cluttering our inbox. 
 
-Did you know that with just your phone number, one can extract a lot of your other personal information like addresses, occupations, etc.? And as we all know, sharing our personal email addresses obviously leads to a lot of spam messages (Hate them so much!)
+## Proposed solution
+- The proposed solution is to generate and use an alternate identity (as opposed to a phone number/email address) that is arbitrary and secure by default. 
+- The generated alternate identity is purely random and is not linked to any kind of personal information, and so can be shared with entities that we don’t trust for communication purposes.
 
-So what if there was another identity for yourself (something as simple as a random ID like I2314) which could be shared instead of your phone number or email ID?
-
-There can be an app that can generate random IDs as an alternate identity for us to share with ones whom we don't trust. And they can use this ID to interact with us in various ways (messages, polls, etc. The scope is huge!)
